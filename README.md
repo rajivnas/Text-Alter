@@ -47,7 +47,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/ImHappyKumar/TextAlter.git
+   git clone https://github.com/rajivnas/TextAlter.git
 
 
 ## 🤝 Contributing

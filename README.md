@@ -1,4 +1,4 @@
-# Simple Text Case Conversion (Uppercase, Lowercase, Sentence Case, and More!)
+# TextAlter - Simple Text Case Conversion (Uppercase, Lowercase, Title Case)
 
 ## Introduction
 
